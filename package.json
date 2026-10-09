@@ -1,0 +1,10 @@
+{
+  "name": "simulado-banco-de-dados",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulado de múltipla escolha sobre MySQL, brModelo, DDL, DML e DCL",
+  "scripts": {
+    "dev": "node servidor.js",
+    "start": "node servidor.js"
+  }
+}
